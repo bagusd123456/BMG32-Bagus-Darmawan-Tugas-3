@@ -6,14 +6,14 @@
   "scene": [
     {
       "class": "Entity",
-      "config": "myplugin/player1",
+      "config": "myplugin/72a43bbe-b67b-49d8-8000-c4207c241065",
       "customProperties": [],
       "properties": {
         "batchType": "Static",
-        "id": "8745956718518337537",
-        "name": "player1",
+        "id": "8751727246479081473",
+        "name": "AI",
         "needSync": "true",
-        "position": "x:18.464527130127 y:52.950107574463 z:26.267002105713",
+        "position": "x:3.3707644939423 y:53.001583099365 z:29.037544250488",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",

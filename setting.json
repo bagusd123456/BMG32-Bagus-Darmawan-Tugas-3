@@ -90,9 +90,9 @@
   "ignoreEmptyStartPos": false,
   "initPos": {
     "map": "map001",
-    "x": 28,
+    "x": 3.0,
     "y": 54,
-    "z": 34
+    "z": 0.0
   },
   "isTimeStopped": true,
   "jumpControlConfig": {
@@ -227,9 +227,9 @@
   "startPos": [
     {
       "map": "map001",
-      "x": 28,
+      "x": 3,
       "y": 54,
-      "z": 34
+      "z": 0
     }
   ],
   "team": [],
@@ -285,6 +285,6 @@
   },
   "waitAtInitPos": true,
   "waitGoTime": 100,
-  "waitPlayerTime": 100,
-  "waitStartTime": 100
+  "waitPlayerTime": 0,
+  "waitStartTime": 0
 }

@@ -1,6 +1,6 @@
 {
   "breakTime": 20,
-  "canClick": false,
+  "canClick": true,
   "candrop": false,
   "canSwim": false,
   "climbSpeed": 0.0,

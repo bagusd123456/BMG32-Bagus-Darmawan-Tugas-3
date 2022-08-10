@@ -1,0 +1,21 @@
+BLOCK_ON {
+	MoveAllPlayers(
+		entity = $obj1,
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			}
+		}
+	)
+	Damage(damage = 10, entity = $obj1, from = $obj1)
+}

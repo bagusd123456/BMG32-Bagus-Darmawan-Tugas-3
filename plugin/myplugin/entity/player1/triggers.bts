@@ -1,0 +1,3 @@
+ENTITY_DIE {
+	ReviveEntity(entity = $obj1, pos = { x = 3, y = 54, z = 0 })
+}
